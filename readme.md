@@ -15,6 +15,7 @@ Instructor: Prof. Zeyun Yu
 # How to Run Locally
 
 - Clone the Repository
+https://github.com/ajayaravind121/weighted_lsh_case_search.git
 
 - Install Dependencies
 pip install -r requirements.txt
