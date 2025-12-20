@@ -33,6 +33,10 @@ The application is deployed on Streamlit Community Cloud and can be accessed her
 
 🔗 Live Demo: https://weightedlshsimilarcase.streamlit.app/
 
+# UI Screen
+<img width="1918" height="972" alt="Screenshot 2025-12-19 203047" src="https://github.com/user-attachments/assets/9052c22c-98a1-47f6-976c-64c23409b7d8" />
+
+
 
 #  Project Overview
 
